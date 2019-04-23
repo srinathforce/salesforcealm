@@ -18,6 +18,9 @@
         <componentInstances>
             <componentName>propertySummary</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>propertyMap</componentName>
+        </componentInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>
